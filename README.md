@@ -3,7 +3,7 @@ Domain-Informed B-Spline Interpolation (DIBSI).
 
 An implementation of the method proposed in: 
 
-Behjat, H., Dogan, Z., Van De Ville, D. and Sörnmo, L. Domain-informed spline interpolation. IEEE Transactions on Signal Processing, 67(15), pp. 3909-3921, 2019. doi.org/10.1109/TSP.2019.2922154 | preprint: arxiv.org/abs/1810.07502
+> Behjat, H., Dogan, Z., Van De Ville, D. and Sörnmo, L. Domain-informed spline interpolation. IEEE Transactions on Signal Processing, 67(15), pp. 3909-3921, 2019. [paper](doi.org/10.1109/TSP.2019.2922154) | [preprint](arxiv.org/abs/1810.07502)
 
 An example application of this interpolation technique is for resampling brain functional Magnetic Resonance Imaging (fMRI) data in such way that the underlying inhomogenous brain structure of the individual is acconted for in the data interpolation phase. The following illustration is a replication of Fig. 8 from the above paper:  
 ![Fig. 8 from Behjat et al. 2019](figs/fig8_paper.jpg?raw=true)
